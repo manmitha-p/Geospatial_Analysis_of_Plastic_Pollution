@@ -27,4 +27,4 @@ This project involves a detailed geospatial data analysis of plastic pollution a
 - Environmental Impact Factors
 
 ## Dashboard
-![Plastic Pollution Analysis](images/plastic_pollution_analysis.png)
+![Plastic Pollution Analysis](plastic_pollution_analysis.png)
